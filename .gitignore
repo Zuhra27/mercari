@@ -1,0 +1,6 @@
+.DS_Store
+geckodriver.log
+
+mercari/__pycache__/
+test.tsv
+train.tsv
