@@ -6,9 +6,18 @@ mercari/__pycache__/
 mercari/bigquery/__pycache__
 cache_dir
 
+#workspace
+price_mercari/workspace.code-workspace
+
 #auth
 mercari/bigquery/rd-rdss-playground-ce9ed0ca0862.json
 
 #data
 test.tsv
 train.tsv
+
+#local python env
+.venv
+.vscode/
+
+price_mercari/__pycache__/
